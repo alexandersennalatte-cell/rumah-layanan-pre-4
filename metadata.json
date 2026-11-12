@@ -1,0 +1,8 @@
+{
+  "name": "Remix Portal Layanan Publik Lamongan",
+  "description": "Portal Layanan Publik Terpadu Kabupaten Lamongan - Akses KTP Digital, Beasiswa Gempur, Peta Wilayah, dan Layanan Siklus Hidup Warga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
